@@ -12,7 +12,7 @@ Career Launch converts resumes and job descriptions into high-dimensional vector
 
 ## Links
  
-- **Live Application**: https://career-launch.streamlit.app/
+- **Live Application**: [https://career-launch.streamlit.app/](https://carrier-launch-gl5mot7ihk2gqifzst3aax.streamlit.app/)
  
 
 ---
