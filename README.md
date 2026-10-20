@@ -1,10 +1,5 @@
 # Career Launch
-
-![Python](https://img.shields.io/badge/python-3.9+-blue)
-![Scikit-learn](https://img.shields.io/badge/ML-scikit--learn-orange)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Cosine%20Similarity-green)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+ 
 
 Career Launch is an **NLP-based resume-job matching system** that quantifies candidate-role alignment using vector-space similarity and structured skill extraction. The system focuses on **explainability**, showing *why* a resume matches (or doesn't) and what skills to improve.
 
@@ -16,9 +11,9 @@ Career Launch converts resumes and job descriptions into high-dimensional vector
 ---
 
 ## Links
-- **Video Demo**: https://youtu.be/jdLr-34M-_A
+ 
 - **Live Application**: https://career-launch.streamlit.app/
-- **Portfolio**: https://harshlad.vercel.app/
+ 
 
 ---
 
@@ -338,29 +333,15 @@ CONTENT_WEIGHT = 0.4            # Weight for text similarity
 
 ---
 
-## License
-
-MIT License
-
-Copyright (c) 2024 Harsh Lad
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
+ 
 ## Author
 
-**Harsh Lad**  
-Applied AI Engineer
+**Vishal Kumar**  
+ 
 
-- Email: harshlad.dev@gmail.com
-- GitHub: https://github.com/ladHarsh
-- Portfolio: https://harshlad.vercel.app/
-
+- Email: vkgupta4558@gmail.com
+- GitHub: https://github.com/vishal9198
+ 
 ---
 
 **Built with a focus on explainability, transparency, and practical ML design.**
